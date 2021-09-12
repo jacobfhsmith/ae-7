@@ -53,7 +53,7 @@ mpg
 A new simple feature object.
 
 ```{r sf-data}
-nc <- st_read("nc_covid.shp", quiet = TRUE)
+nc <- st_read("nc_regvoters.shp", quiet = TRUE)
 nc
 ```
 
